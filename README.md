@@ -1,5 +1,5 @@
 
-![Screenshot 2024-08-11 125826](https://github.com/user-attachments/assets/882bc2da-377e-4873-9855-5d2e85683a41)
+![Screenshot 2024-08-11 125826](https://github.com/user-attachments/assets/494c20c3-c7c1-4f5d-9984-e6550a1c161a)
 
 
 # React & Tailwind CSS Starter Pack
